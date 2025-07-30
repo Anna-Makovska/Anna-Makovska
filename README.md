@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anna 👋</h1>
+<h1>Hi,everyone! I'm Anna - Frontend Developer 👋</h1>
 
 ---
 

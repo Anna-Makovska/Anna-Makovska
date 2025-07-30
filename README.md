@@ -4,9 +4,7 @@
 ## 👩‍💻 About me
 <p align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C851&vCenter=true&width=600&lines=%F0%9F%A7%A0+I+enjoy+crafting+clean%2C+responsive+interfaces;%F0%9F%8E%AF+Passionate+about+React%2C+JavaScript%2C+and+UX;%F0%9F%9A%80+On+my+way+to+becoming+a+Fullstack+Developer;%F0%9F%93%8C+Always+learning+and+building+new+projects" alt="Typing animation" />
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=600&lines=I+am+Frontend+Developer;I+create+web+applications" alt="Typing animation" />
 
 </p>
 
@@ -25,14 +23,16 @@
 </p>
 
 
-### 📚 My Skills:
 
+### 🧠 My Skills
 
-- 🧩 JavaScript (ES6+): async/await, array methods, fetch
-- ⚛️ React: components, hooks, props/state, conditional rendering
-- 🎨 HTML5 / CSS3 / SASS: BEM, Flexbox, Grid
-- 📱 Responsive UI / UX: mobile-first, accessibility, Figma-friendly
-- 🧰 Git / GitHub: branches, PRs, code collaboration
+- 💻 JavaScript (ES6+)
+- ⚛️ React
+- 🎨 HTML5 / CSS3 / SASS
+- 📱 Responsive UI / UX
+- 🌐 REST API
+- 🔧 Git / GitHub
+- 🛠️ Vite 
 
 
 
@@ -41,7 +41,7 @@
 - 🛍️ [WatchCharm](https://github.com/konstabash/project-TeamDragons) – e-commerce landing with animations and modal logic
 - 🧩 [Portfolio Template](https://github.com/Anna-Makovska/stp-8893) – developer portfolio site
 
----
+
 
 ### 📫 Contact me:
 - [GitHub] : https://github.com/Anna-Makovska

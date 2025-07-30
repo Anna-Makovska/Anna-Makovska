@@ -48,9 +48,11 @@
 
 
 ### 📌 Projects:
-- 🎮 [Heroes of Tower Defence Battle](https://github.com/konstabash/project-DragonScript) – landing page for a mobile game (Team Lead)
-- 🛍️ [WatchCharm](https://github.com/konstabash/project-TeamDragons) – e-commerce landing with animations and modal logic
-- 🧩 [Portfolio Template](https://github.com/Anna-Makovska/stp-8893) – developer portfolio site
+- 🎮 [Heroes of Tower Defence Battle](https://github.com/Anna-Makovska/stp-8893) – landing page for a mobile game (Team Lead)
+- 🛍️ [WatchCharm](https://github.com/konstabash/project-TeamDragons) – e-commerce landing with animations and modal logic (Scrum Master)
+- 🧩 [Portfolio](https://github.com/konstabash/project-DragonScript) – developer portfolio site 
+  
+  
 
 
 

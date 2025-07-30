@@ -1,6 +1,5 @@
 <h1>Hi,everyone! I'm Anna - Frontend Developer 👋</h1>
 
----
 
 ## 👩‍💻 About me
 <p align="left">
@@ -23,11 +22,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40"/>
 </p>
 
----
 
 ### 📚 My Skills:
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F9F871&vCenter=false&width=500&lines=JavaScript+(ES6%2B);React+%2F+Hooks;HTML+%2F+CSS+%2F+SASS;Responsive+UI+UX;Git+%2F+GitHub" alt="My Skills animation" />
+
+- 🧩 JavaScript (ES6+): async/await, array methods, fetch
+- ⚛️ React: components, hooks, props/state, conditional rendering
+- 🎨 HTML5 / CSS3 / SASS: BEM, Flexbox, Grid
+- 📱 Responsive UI / UX: mobile-first, accessibility, Figma-friendly
+- 🧰 Git / GitHub: branches, PRs, code collaboration
+
 
 
 ### 📌 Projects:

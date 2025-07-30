@@ -27,14 +27,8 @@
 
 ### 📚 My Skills:
 
-| Frontend |
-|----------|
-| JavaScript (ES6+) | — | Git / GitHub |
-| React | — | Figma |
-| HTML5 / CSS3 / SASS | — | Vite, ESLint |
-| Responsive UI / UX | — | GitFlow |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F9F871&vCenter=false&width=500&lines=JavaScript+(ES6%2B);React+%2F+Hooks;HTML+%2F+CSS+%2F+SASS;Responsive+UI+UX;Git+%2F+GitHub" alt="My Skills animation" />
 
----
 
 ### 📌 Projects:
 - 🎮 [Heroes of Tower Defence Battle](https://github.com/konstabash/project-DragonScript) – landing page for a mobile game (Team Lead)

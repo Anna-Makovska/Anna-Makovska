@@ -1,12 +1,18 @@
 <h1>Hi,everyone! I'm Anna - Frontend Developer 👋</h1>
 
 
+
+
+
 ## 👩‍💻 About me
 <p align="left">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=600&lines=I+am+Frontend+Developer;I+create+web+applications" alt="Typing animation" />
 
 </p>
+
+
+
 
 
 ### 🚀 Knowledge and Tools:
@@ -24,6 +30,9 @@
 
 
 
+
+
+
 ### 🧠 My Skills
 
 - 💻 JavaScript (ES6+)
@@ -32,7 +41,9 @@
 - 📱 Responsive UI / UX
 - 🌐 REST API
 - 🔧 Git / GitHub
-- 🛠️ Vite 
+- 🛠️ Vite
+
+
 
 
 
@@ -40,6 +51,8 @@
 - 🎮 [Heroes of Tower Defence Battle](https://github.com/konstabash/project-DragonScript) – landing page for a mobile game (Team Lead)
 - 🛍️ [WatchCharm](https://github.com/konstabash/project-TeamDragons) – e-commerce landing with animations and modal logic
 - 🧩 [Portfolio Template](https://github.com/Anna-Makovska/stp-8893) – developer portfolio site
+
+
 
 
 

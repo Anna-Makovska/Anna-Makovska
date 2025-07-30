@@ -4,7 +4,8 @@
 ## 👩‍💻 About me
 <p align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CB4FF&vCenter=true&width=600&lines=%F0%9F%A7%A0+I+enjoy+crafting+clean%2C+responsive+interfaces;%F0%9F%8E%AF+Passionate+about+React%2C+JavaScript%2C+and+UX;%F0%9F%9A%80+On+my+way+to+becoming+a+Fullstack+Developer;%F0%9F%93%8C+Always+learning+and+building+new+projects" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&vCenter=true&width=600&lines=%F0%9F%A7%A0+I+enjoy+crafting+clean%2C+responsive+interfaces;%F0%9F%8E%AF+Passionate+about+React%2C+JavaScript%2C+and+UX;%F0%9F%9A%80+On+my+way+to+becoming+a+Fullstack+Developer;%F0%9F%93%8C+Always+learning+and+building+new+projects" alt="Typing animation" />
+
 
 </p>
 

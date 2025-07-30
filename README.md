@@ -3,17 +3,12 @@
 ---
 
 ## 👩‍💻 About me
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B3FF&center=true&vCenter=true&width=450&lines=Junior+Front-End+Developer;React+%7C+JavaScript+%7C+UI%2FUX+Lover;Based+in+Ukraine+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
+<p align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CB4FF&vCenter=true&width=600&lines=%F0%9F%A7%A0+I+enjoy+crafting+clean%2C+responsive+interfaces;%F0%9F%8E%AF+Passionate+about+React%2C+JavaScript%2C+and+UX;%F0%9F%9A%80+On+my+way+to+becoming+a+Fullstack+Developer;%F0%9F%93%8C+Always+learning+and+building+new+projects" alt="Typing animation" />
+
 </p>
----
 
-🧠 I enjoy crafting clean, responsive interfaces  
-🎯 Passionate about React, JavaScript, and UX  
-🚀 On my way to becoming a Fullstack Developer  
-📌 Always learning and building new projects
-
----
 
 ### 🚀 Knowledge and Tools:
 

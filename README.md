@@ -3,9 +3,9 @@
 ---
 
 ## 👩‍💻 About me
-## 👨‍💻 About me
-
-![Typing animation](./assets/marquee.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B3FF&center=true&vCenter=true&width=450&lines=Junior+Front-End+розробниця;React+%7C+JavaScript+%7C+UI%2FUX+дизайн;З+України+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
+</p>
 
 ---
 

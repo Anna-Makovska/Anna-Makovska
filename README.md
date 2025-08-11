@@ -55,13 +55,5 @@
 - 🎬 [Movie Search App](https://goit-react-hw-05-seven-roan-14.vercel.app/) – movie search app with dynamic routing and data from TMDb API
 
   
-  
 
-
-
-
-
-### 📫 Contact me:
-- [GitHub] : https://github.com/Anna-Makovska
-- [LinkedIn] : https://www.linkedin.com/in/anna-makovska-frontend-developer
 

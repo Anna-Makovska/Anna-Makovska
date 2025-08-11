@@ -64,5 +64,4 @@
 ### 📫 Contact me:
 - [GitHub] : https://github.com/Anna-Makovska
 - [LinkedIn] : https://www.linkedin.com/in/anna-makovska-frontend-developer
-- [Email] : brain.lady404@gmail.com
-- [Telegram] : @brain_lady
+

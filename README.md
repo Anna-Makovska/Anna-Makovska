@@ -1,18 +1,18 @@
 <h1 align="center">👋 Hi there! I'm Anna — Frontend Developer</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+%26+responsive+UIs;Building+modern+React+apps;Design+meets+Code" alt="Typing animation" /> </p>
-👩‍💻 About Me
+👩‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
 I design and develop clean, responsive, and engaging web apps.
 I love when code feels elegant and UI feels effortless.
 
 Focused on React, modern design systems, and meaningful user experience.
 
-🧠 Core Skills
+🧠 𝐂𝐨𝐫𝐞 𝐒𝐤𝐢𝐥𝐥𝐬
 
 ⚛️ React / JS (ES6+) 🎨 CSS Modules / Flex / Grid
 🌍 Responsive & accessible layouts
 🔐 Routing, forms, and auth logic
 
-🚀 Now Learning
+🚀 𝐍𝐨𝐰 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
 
 Refining React architecture, mastering state management,
 and building real-world projects that balance design, logic & performan

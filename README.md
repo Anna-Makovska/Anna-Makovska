@@ -1,38 +1,57 @@
-<h1 align="center">👋 Hi there! I'm Anna — Frontend Developer</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+%26+responsive+UIs;Building+modern+React+apps;Design+meets+Code" alt="Typing animation" /> </p>
-👩‍💻 About Me
+<h1 align="center">👋 Hi there! I'm Anna — Frontend Developer</h1>
 
-I’m a Frontend Developer passionate about creating clean, responsive, and engaging web experiences.
-I love when code feels elegant and UI feels effortless — bridging design and logic into one cohesive flow.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+%26+responsive+UIs;Building+modern+React+apps;Design+meets+Code" alt="Typing animation" />
+</p>
 
-Focused on React, modern design systems, and meaningful user experience.
+<hr/>
 
-🧠 Core Skills
+<h2>👩‍💻 About Me</h2>
 
-⚛️ React / JavaScript (ES6+) 🎨 CSS Modules / Flex / Grid
-🌍 Responsive & accessible layouts 🔐 Routing, forms & authentication
+<p>
+I'm a <b>Frontend Developer</b> passionate about creating
+<b>modern, clean, and user-focused web experiences</b>.<br/>
+I love when <b>code feels elegant</b> and <b>UI feels effortless</b> — blending design and logic into one cohesive flow.<br/><br/>
+Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-world usability</b>.
+</p>
 
-🚀 Tech Stack
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40"/> </p>
-📚 Currently Learning
+<hr/>
 
-Advanced React architecture & state management
+<h2>🧠 Core Skills</h2>
 
-Performance optimization and clean component patterns
+<ul>
+  <li>⚛️ <b>React / JavaScript (ES6+)</b></li>
+  <li>🎨 <b>CSS Modules / Flex / Grid</b></li>
+  <li>🌍 <b>Responsive & accessible layouts</b></li>
+  <li>🔐 <b>Routing, forms & authentication</b></li>
+</ul>
 
-Building real-world apps that merge design, usability & logic
+<hr/>
 
-📌 Featured Projects
+<h2>🚀 Tech Stack</h2>
 
-🎧 MusicShop
- — React-based music store app (Designer & Developer)
-🎮 Heroes of Tower Defence Battle
- — team landing page for a mobile game (Team Lead)
-🧩 Portfolio
- — personal portfolio website
-🛍️ WatchCharm
- — e-commerce landing with animations & modals (Scrum Master)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40"/>
+</p>
 
-💬 Let’s Connect
-<p align="left"> <a href="https://www.linkedin.com/in/anna-makovska-frontend-developer/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> </p>
+<hr/>
 
-⭐ Always learning. Always creating.
+<h2>📌 Featured Projects</h2>
+
+<ul>
+  <li>🎧 <a href="https://anna-makovska.github.io/MusicShop/" target="_blank"><b>MusicShop</b></a> — React-based music store app <i>(Designer & Developer)</i></li>
+  <li>🎮 <a href="https://anna-makovska.github.io/Heroes-of-Tower-Defence-Battle/" target="_blank"><b>Heroes of Tower Defence Battle</b></a> — landing page for a mobile game <i>(Team Lead)</i></li>
+  <li>🧩 <a href="https://konstabash.github.io/project-DragonScript/" target="_blank"><b>Portfolio</b></a> — personal portfolio website</li>
+  <li>🛍️ <a href="https://konstabash.github.io/project-TeamDragons/" target="_blank"><b>WatchCharm</b></a> — e-commerce landing with animations & modals <i>(Scrum Master)</i></li>
+</ul>
+
+<hr/>
+
+<h2>💬 Let’s Co

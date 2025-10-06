@@ -6,9 +6,9 @@
 
 <hr/>
 
-<h2>👩‍💻 About Me</h2>
+<h2 align="center">👩‍💻 About Me</h2>
 
-<p>
+<p align="center">
 I'm a <b>Frontend Developer</b> passionate about creating
 <b>modern, clean, and user-focused web experiences</b>.<br/>
 I love when <b>code feels elegant</b> and <b>UI feels effortless</b> — blending design and logic into one cohesive flow.<br/><br/>
@@ -17,20 +17,20 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <hr/>
 
-<h2>🧠 Core Skills</h2>
+<h2 align="center">🧠 Core Skills</h2>
 
-<ul>
-  <li>⚛️ <b>React / JavaScript (ES6+)</b></li>
-  <li>🎨 <b>CSS Modules / Flex / Grid</b></li>
-  <li>🌍 <b>Responsive & accessible layouts</b></li>
-  <li>🔐 <b>Routing, forms & authentication</b></li>
-</ul>
+<p align="center">
+⚛️ <b>React / JavaScript (ES6+)</b> &nbsp; | &nbsp;
+🎨 <b>CSS Modules / Flex / Grid</b> &nbsp; | &nbsp;
+🌍 <b>Responsive & Accessible Layouts</b> &nbsp; | &nbsp;
+🔐 <b>Routing, Forms & Authentication</b>
+</p>
 
 <hr/>
 
-<h2>🚀 Tech Stack</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
@@ -43,20 +43,20 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <hr/>
 
-<h2>📌 Featured Projects</h2>
+<h2 align="center">📌 Featured Projects</h2>
 
-<ul>
-  <li>🎧 <a href="https://anna-makovska.github.io/MusicShop/" target="_blank"><b>MusicShop</b></a> — React-based music store app <i>(Designer & Developer)</i></li>
-  <li>🎮 <a href="https://anna-makovska.github.io/Heroes-of-Tower-Defence-Battle/" target="_blank"><b>Heroes of Tower Defence Battle</b></a> — landing page for a mobile game <i>(Team Lead)</i></li>
-  <li>🧩 <a href="https://konstabash.github.io/project-DragonScript/" target="_blank"><b>Portfolio</b></a> — personal portfolio website</li>
-  <li>🛍️ <a href="https://konstabash.github.io/project-TeamDragons/" target="_blank"><b>WatchCharm</b></a> — e-commerce landing with animations & modals <i>(Scrum Master)</i></li>
-</ul>
+<p align="center">
+🎧 <a href="https://anna-makovska.github.io/MusicShop/" target="_blank"><b>MusicShop</b></a> — React-based music store app <i>(Designer & Developer)</i><br/>
+🎮 <a href="https://anna-makovska.github.io/Heroes-of-Tower-Defence-Battle/" target="_blank"><b>Heroes of Tower Defence Battle</b></a> — landing page for a mobile game <i>(Team Lead)</i><br/>
+🧩 <a href="https://konstabash.github.io/project-DragonScript/" target="_blank"><b>Portfolio</b></a> — personal portfolio website<br/>
+🛍️ <a href="https://konstabash.github.io/project-TeamDragons/" target="_blank"><b>WatchCharm</b></a> — e-commerce landing with animations & modals <i>(Scrum Master)</i>
+</p>
 
 <hr/>
 
-<h2>💬 Let’s Connect</h2>
+<h2 align="center">💬 Let’s Connect</h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/anna-makovska-frontend-developer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>

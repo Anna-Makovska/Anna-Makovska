@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Anna — Frontend Developer</h1>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+%26+responsive+UIs;Building+modern+React+apps;Design+meets+Code" alt="Typing animation" />
 </p>
 
@@ -8,7 +8,7 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-<p align="center">
+<p >
 I'm a <b>Frontend Developer</b> passionate about creating
 <b>modern, clean, and user-focused web experiences</b>.<br/>
 I love when <b>code feels elegant</b> and <b>UI feels effortless</b> — blending design and logic into one cohesive flow.<br/><br/>
@@ -19,7 +19,7 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <h2 align="center">🧠 Core Skills</h2>
 
-<p align="center">
+<p>
 ⚛️ <b>React / JavaScript (ES6+)</b> &nbsp; | &nbsp;
 🎨 <b>CSS Modules / Flex / Grid</b> &nbsp; | &nbsp;
 🌍 <b>Responsive & Accessible Layouts</b> &nbsp; | &nbsp;
@@ -30,7 +30,7 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <h2 align="center">🚀 Tech Stack</h2>
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
@@ -45,7 +45,7 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <h2 align="center">📌 Featured Projects</h2>
 
-<p align="center">
+<p>
 🎧 <a href="https://anna-makovska.github.io/MusicShop/" target="_blank"><b>MusicShop</b></a> — React-based music store app <i>(Designer & Developer)</i><br/>
 🎮 <a href="https://anna-makovska.github.io/Heroes-of-Tower-Defence-Battle/" target="_blank"><b>Heroes of Tower Defence Battle</b></a> — landing page for a mobile game <i>(Team Lead)</i><br/>
 🧩 <a href="https://konstabash.github.io/project-DragonScript/" target="_blank"><b>Portfolio</b></a> — personal portfolio website<br/>
@@ -56,7 +56,7 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <h2 align="center">💬 Let’s Connect</h2>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/anna-makovska-frontend-developer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -64,6 +64,6 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <hr/>
 
-<p align="center">
+<p>
   ⭐ <i>Always learning. Always creating.</i> ⭐
 </p>

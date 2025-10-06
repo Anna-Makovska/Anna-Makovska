@@ -54,4 +54,16 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <hr/>
 
-<h2>💬 Let’s Co
+<h2>💬 Let’s Connect</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/anna-makovska-frontend-developer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+<hr/>
+
+<p align="center">
+  ⭐ <i>Always learning. Always creating.</i> ⭐
+</p>

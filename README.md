@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Anna — Frontend Developer</h1>
+<h1>👋 Hi there! I'm Anna — Frontend Developer</h1>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+%26+responsive+UIs;Building+modern+React+apps;Design+meets+Code" alt="Typing animation" />
@@ -6,7 +6,7 @@
 
 <hr/>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2>👩‍💻 About Me</h2>
 
 <p >
 I'm a <b>Frontend Developer</b> passionate about creating
@@ -17,7 +17,7 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <hr/>
 
-<h2 align="center">🧠 Core Skills</h2>
+<h2>🧠 Core Skills</h2>
 
 <p>
 ⚛️ <b>React / JavaScript (ES6+)</b> &nbsp; | &nbsp;
@@ -28,7 +28,7 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <hr/>
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2>🚀 Tech Stack</h2>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
@@ -43,7 +43,7 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <hr/>
 
-<h2 align="center">📌 Featured Projects</h2>
+<h2>📌 Featured Projects</h2>
 
 <p>
 🎧 <a href="https://anna-makovska.github.io/MusicShop/" target="_blank"><b>MusicShop</b></a> — React-based music store app <i>(Designer & Developer)</i><br/>
@@ -54,7 +54,7 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <hr/>
 
-<h2 align="center">💬 Let’s Connect</h2>
+<h2>💬 Let’s Connect</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/anna-makovska-frontend-developer/" target="_blank">

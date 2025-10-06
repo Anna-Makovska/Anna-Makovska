@@ -1,18 +1,30 @@
-<h1 align="center">👋 Hi everyone! I'm Anna — Frontend Developer</h1>
+<h1 align="center">👋 Hi everyone! I'm Anna — Frontend Developer</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+modern+%26+responsive+web+applications;Turning+ideas+into+interactive+UI" alt="Typing animation" /> </p>
+👩‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=I+am+a+Frontend+Developer;I+build+modern+and+responsive+web+applications" alt="Typing animation" />
-</p>
+I’m a Frontend Developer with a passion for creating modern, clean, and user-focused interfaces.
+My work blends aesthetic design and technical precision, from thoughtful UI/UX planning to implementing interactive animations and dynamic React components.
 
----
+I enjoy transforming concepts into functional products that feel intuitive and engaging — ensuring every project I build looks good, performs fast, and scales easily.
 
-## 👩‍💻 About Me
-Passionate about creating **clean, responsive, and user-friendly interfaces** using modern web technologies.  
-I love combining **aesthetic design** with **technical precision** — from planning UI/UX logic to implementing animations and dynamic components in React.  
+Currently, I’m sharpening my skills in the React ecosystem, focusing on architecture, state management, and real-world usability.
 
-Currently focused on improving my **React ecosystem skills** and building real-world projects that reflect business logic and usability.
+🧩 Tech Focus
 
----
+- React, JavaScript (ES6+), HTML5, CSS3 / Modules
+
+- Responsive design & accessibility
+
+- UI/UX logic, routing, and authentication
+
+- Code quality, reusability, and maintainability
+
+🌱 Ongoing Goals
+
+- Deepen React ecosystem expertise (Hooks, Context, Router)
+
+- Improve performance optimization and clean architecture
+
+- Build projects that reflect real business logic and modern UI trends
 
 ## 🚀 Tech Stack
 

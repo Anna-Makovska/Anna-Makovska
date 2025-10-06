@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Anna — Frontend Developer</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+%26+responsive+UIs;Building+modern+React+apps;Design+meets+Code" alt="Typing animation" /> </p>
-👩‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+👩‍💻 <h3>𝗔𝗯𝗼𝘂𝘁 𝗠𝗲</h3>
 
 I design and develop clean, responsive, and engaging web apps.
 I love when code feels elegant and UI feels effortless.

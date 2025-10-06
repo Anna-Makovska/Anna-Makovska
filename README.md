@@ -1,30 +1,21 @@
-<h1 align="center">👋 Hi everyone! I'm Anna — Frontend Developer</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+modern+%26+responsive+web+applications;Turning+ideas+into+interactive+UI" alt="Typing animation" /> </p>
+<h1 align="center">👋 Hi there! I'm Anna — Frontend Developer</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+%26+responsive+UIs;Building+modern+React+apps;Design+meets+Code" alt="Typing animation" /> </p>
 👩‍💻 About Me
 
-I’m a Frontend Developer with a passion for creating modern, clean, and user-focused interfaces.
-My work blends aesthetic design and technical precision, from thoughtful UI/UX planning to implementing interactive animations and dynamic React components.
+I design and develop clean, responsive, and engaging web apps.
+I love when code feels elegant and UI feels effortless.
 
-I enjoy transforming concepts into functional products that feel intuitive and engaging — ensuring every project I build looks good, performs fast, and scales easily.
+Focused on React, modern design systems, and meaningful user experience.
 
-Currently, I’m sharpening my skills in the React ecosystem, focusing on architecture, state management, and real-world usability.
+🧠 Core Skills
 
-🧩 Tech Focus
+⚛️ React / JS (ES6+) 🎨 CSS Modules / Flex / Grid
+🌍 Responsive & accessible layouts
+🔐 Routing, forms, and auth logic
 
-- React, JavaScript (ES6+), HTML5, CSS3 / Modules
+🚀 Now Learning
 
-- Responsive design & accessibility
-
-- UI/UX logic, routing, and authentication
-
-- Code quality, reusability, and maintainability
-
-🌱 Ongoing Goals
-
-- Deepen React ecosystem expertise (Hooks, Context, Router)
-
-- Improve performance optimization and clean architecture
-
-- Build projects that reflect real business logic and modern UI trends
+Refining React architecture, mastering state management,
+and building real-world projects that balance design, logic & performan
 
 ## 🚀 Tech Stack
 

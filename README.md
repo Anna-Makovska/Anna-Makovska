@@ -19,11 +19,11 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 
 <h2>🧠 Core Skills</h2>
 
-<ul display="block">
-⚛️ <li>React / JavaScript (ES6+)</li> 
-🎨 <li>CSS Modules / Flex / Grid</li> 
-🌍 <li>Responsive & Accessible Layouts</li> 
-🔐 <li>Routing, Forms & Authentication</li>
+<ul display="block" list-style: inside >
+ <li> ⚛️ React / JavaScript (ES6+)</li> 
+ <li> 🎨 CSS Modules / Flex / Grid</li> 
+ <li> 🌍 Responsive & Accessible Layouts</li> 
+ <li> 🔐 Routing, Forms & Authentication</li>
 </ul>
 
 <hr/>

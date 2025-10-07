@@ -46,7 +46,7 @@ Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-wor
 <h2>📌 Featured Projects</h2>
 
 <p>
-🎧 <a href="https://anna-makovska.github.io/MusicShop/" target="_blank"><b>MusicShop</b></a> — React-based music store app <i>(Designer & Developer)</i><br/>
+🎧 <a href="https://anna-makovska.github.io/MusicShop/" target="_blank"><b>MusicShop</b></a> — React-based music store app <i>(Designer & Developer) </i><a href="https://github.com/Anna-Makovska/MusicShop"> Code: </a><br/>
 🎮 <a href="https://anna-makovska.github.io/Heroes-of-Tower-Defence-Battle/" target="_blank"><b>Heroes of Tower Defence Battle</b></a> — landing page for a mobile game <i>(Team Lead)</i><br/>
 🧩 <a href="https://konstabash.github.io/project-DragonScript/" target="_blank"><b>Portfolio</b></a> — personal portfolio website<br/>
 🛍️ <a href="https://konstabash.github.io/project-TeamDragons/" target="_blank"><b>WatchCharm</b></a> — e-commerce landing with animations & modals <i>(Scrum Master)</i>

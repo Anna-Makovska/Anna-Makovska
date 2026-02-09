@@ -1,69 +1,85 @@
-<h1>👋 Hi there! I'm Anna — Frontend Developer</h1>
+# 👋 Hi there! I'm Anna Makovska — Fullstack Developer
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Next.js+%26+Node.js+Solutions;n8n+Automation+Enthusiast;Building+Scalable+%26+Smart+Apps" alt="Typing animation" />
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+I am a **Junior Fullstack Developer** who bridges the gap between clean frontend design and robust backend logic. I am passionate about modern technologies and building products where **elegant code meets effortless user experience**.
+
+Lately, I've been fascinated by the power of **AI and automation** to optimize workflows and create smarter applications.
+
+---
+
+### 🧰 Tech Stack
+
+**Frontend**
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+%26+responsive+UIs;Building+modern+React+apps;Design+meets+Code" alt="Typing animation" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-<hr/>
-
-<h2>👩‍💻 About Me</h2>
-
-<p >
-I'm a <b>Frontend Developer</b> passionate about creating
-<b>modern, clean, and user-focused web experiences</b>.<br/>
-I love when <b>code feels elegant</b> and <b>UI feels effortless</b> — blending design and logic into one cohesive flow.<br/><br/>
-Currently focused on <b>React</b>, <b>modern design systems</b>, and <b>real-world usability</b>.
-</p>
-
-<hr/>
-
-<h2>🧠 Core Skills</h2>
-
-<ul display="block" list-style: inside >
- <li> ⚛️ React / JavaScript (ES6+)</li> 
- <li> 🎨 CSS Modules / Flex / Grid</li> 
- <li> 🌍 Responsive & Accessible Layouts</li> 
- <li> 🔐 Routing, Forms & Authentication</li>
-</ul>
-
-<hr/>
-
-<h2>🚀 Tech Stack</h2>
-
+**Backend & Database**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
-<hr/>
-
-<h2>📌 Featured Projects</h2>
-
+**🤖 AI & Automation (Hobby & Workflow)**
 <p>
-🎧 <a href="https://anna-makovska.github.io/MusicShop/" target="_blank"><b>MusicShop(Only desktop version available now)</b></a> — React-based music store app <i>(Designer & Developer) </i><a href="https://github.com/Anna-Makovska/MusicShop"> Code </a><br/>
-🎮 <a href="https://anna-makovska.github.io/Heroes-of-Tower-Defence-Battle/" target="_blank"><b>Heroes of Tower Defence Battle</b></a> — landing page for a mobile game <i>(Team Lead)</i> <a href="https://github.com/Anna-Makovska/Heroes-of-Tower-Defence-Battle">Code</a><br/>
-🧩 <a href="https://konstabash.github.io/project-DragonScript/" target="_blank"><b>Portfolio</b></a> — personal portfolio website<br/>
-🛍️ <a href="https://konstabash.github.io/project-TeamDragons/" target="_blank"><b>WatchCharm</b></a> — e-commerce landing with animations & modals <i>(Scrum Master)</i>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <i>...actively learning and expanding this list! 🚀</i>
 </p>
 
-<hr/>
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-<h2>💬 Let’s Connect</h2>
+---
+
+### 📌 Featured Projects
+
+🎧 [**MusicShop**](https://anna-makovska.github.io/MusicShop/) — React-based music store application (Desktop version) | [Code](https://github.com/Anna-Makovska/MusicShop)
+
+🎮 [**Heroes of Tower Defence Battle**](https://anna-makovska.github.io/Heroes-of-Tower-Defence-Battle/) — Responsive landing page for a mobile game (Team Lead) | [Code](https://github.com/Anna-Makovska/Heroes-of-Tower-Defence-Battle)
+
+🛍️ [**WatchCharm**](https://konstabash.github.io/project-TeamDragons/) — E-commerce landing with animations & modals (Scrum Master)
+
+🧩 [**Portfolio**](https://konstabash.github.io/project-DragonScript/) — Personal portfolio website showcase
+
+---
+
+### 🗣️ Languages
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+---
+
+### 💬 Let’s Connect
 
 <p>
   <a href="https://www.linkedin.com/in/anna-makovska-frontend-developer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
-<hr/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anna-Makovska&show_icons=true&theme=nord&hide_border=true" height="150" alt="GitHub Stats" />
+</p>
 
-<p>
+<p align="center">
   ⭐ <i>Always learning. Always creating.</i> ⭐
 </p>

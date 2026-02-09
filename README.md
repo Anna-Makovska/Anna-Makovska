@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Anna Makovska — Fullstack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3384FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Next.js+%26+Node.js" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Next.js+%26+Node.js" alt="Typing animation" />
 </p>
 
 ---
@@ -61,7 +61,11 @@ I thrive in collaborative environments, follow Agile/Scrum methodologies, and ac
 
 🎮 [**Heroes of Tower Defence Battle**](https://anna-makovska.github.io/Heroes-of-Tower-Defence-Battle/) — Mobile game landing page | [Code](https://github.com/Anna-Makovska/Heroes-of-Tower-Defence-Battle)
 
+🧩 [**Portfolio**](https://konstabash.github.io/project-DragonScript/) — Personal portfolio website showcase
+
 🛍️ [**WatchCharm**](https://konstabash.github.io/project-TeamDragons/) — E-commerce landing with animations
+
+
 
 ---
 
@@ -73,10 +77,7 @@ I thrive in collaborative environments, follow Agile/Scrum methodologies, and ac
   </a>
 </p>
 
-### 📊 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats-tau-seven.vercel.app/api?username=Anna-Makovska&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   ⭐ <i>Always learning. Always creating.</i> ⭐

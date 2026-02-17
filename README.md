@@ -57,6 +57,8 @@ I thrive in collaborative environments, follow Agile/Scrum methodologies, and ac
 
 ### 📌 Featured Projects
 
+🚀 **[NoteHub](https://github.com/Anna-Makovska/NoteHub)** — App management application | [Code](https://09-auth-inky-tau.vercel.app/)
+
 🎧 [**MusicShop**](https://music-shop-olive.vercel.app/) — React-based music store application | [Code](https://github.com/Anna-Makovska/MusicShop)
 
 🎮 [**Heroes of Tower Defence Battle**](https://anna-makovska.github.io/Heroes-of-Tower-Defence-Battle/) — Mobile game landing page | [Code](https://github.com/Anna-Makovska/Heroes-of-Tower-Defence-Battle)

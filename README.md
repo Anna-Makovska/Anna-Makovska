@@ -56,6 +56,7 @@ I thrive in collaborative environments, follow Agile/Scrum methodologies, and ac
 ---
 
 ### 📌 Featured Projects
+🗺️ **[Podorozhniki](https://project-group-6-podorozhnyky-front.vercel.app/)** — App for travelers and their stories 
 
 🚀 **[NoteHub](https://github.com/Anna-Makovska/NoteHub)** — App management application | [Code](https://09-auth-inky-tau.vercel.app/)
 
